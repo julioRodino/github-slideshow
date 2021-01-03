@@ -1,3 +1,7 @@
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
 # ¡Hola!
 Mi Nombre Es Julio Rodiño
 
